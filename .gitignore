@@ -1,0 +1,12 @@
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled binary files
+*.exe
+*.out
+*.o
+
+# Ignore backups or temp files
+*.log
+*.tmp
